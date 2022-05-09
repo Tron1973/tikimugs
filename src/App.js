@@ -29,7 +29,7 @@ const Logo = styled(Link)`
   font-family: "Fontdiner Swanky", cursive;
   line-height: 4.5rem;
   color: #fff;
-  text-shadow: 5px 3px 3px #ff4500;
+  text-shadow: 3px 3px 3px #ff4500;
   @media screen and (max-width: 619px) {
     line-height: 3rem;
     font-size: 5.5vh;
