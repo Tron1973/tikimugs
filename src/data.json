@@ -1,0 +1,351 @@
+[{
+    "id": 1,
+    "title": "Grogu Tiki",
+    "image": "/images/1.jpg",
+    "year": "2020",
+    "color": "green",
+    "type": "novelty",
+    "text": "Star Wars themed tiki mug"
+},
+{
+    "id": 2,
+    "title": "Bambooze Tiki",
+    "image": "/images/13.jpg",
+    "year": "2007",
+    "color": "brown",
+    "type": "modern",
+    "text": "Designed by Thor in Hawaii"
+},
+{
+    "id": 3,
+    "title": "Pufferfish Tiki",
+    "image": "/images/3.jpg",
+    "year": "2008",
+    "color": "green",
+    "type": "novelty",
+    "text": "Designed by Tiki Farm"
+},
+{
+    "id": 4,
+    "title": "Moai Tiki",
+    "image": "/images/4.jpg",
+    "year": "1999",
+    "color": "yellow",
+    "type": "modern",
+    "text": "Modern Moai style tiki mug"
+},
+{
+    "id": 5,
+    "title": "Face Espresso Tiki",
+    "image": "/images/2.jpg",
+    "year": "2022",
+    "color": "brown",
+    "type": "modern",
+    "text": "Handmade Small espresso sized tiki cup from Mexico"
+},
+{
+    "id": 6,
+    "title": "Tiki's Grill Tiki Mug",
+    "image": "/images/6.jpg",
+    "year": "2007",
+    "color": "red",
+    "type": "modern",
+    "text": "From Tiki's Grill in Las Vegas, NV"
+},
+{
+    "id": 7,
+    "title": "Pink Tiki",
+    "image": "/images/7.jpg",
+    "year": "2002",
+    "color": "pink",
+    "type": "modern",
+    "text": "Modern era tiki mug"
+},
+{
+    "id": 8,
+    "title": "Aloha Tiki",
+    "image": "/images/8.jpg",
+    "year": "2005",
+    "color": "blue",
+    "type": "modern",
+    "text": "Designed by Tiki Farm"
+},
+{
+    "id": 9,
+    "title": "Tron the Beachcomber Tiki",
+    "image": "/images/9.jpg",
+    "year": "2007",
+    "color": "blue",
+    "type": "novelty",
+    "text": "Designed by Tiki Farm"
+},
+{
+    "id": 10,
+    "title": "Suffering Bastard Tiki",
+    "image": "/images/10.jpg",
+    "year": "1960's",
+    "color": "black",
+    "type": "vintage",
+    "text": "Authentic Trader Vic's original"
+},
+{
+    "id": 11,
+    "title": "Kon Tiki Mug",
+    "image": "/images/11.jpg",
+    "year": "2000's",
+    "color": "green",
+    "type": "modern",
+    "text": "Mug from Kon Tiki in Tucson, AZ"
+},
+{
+    "id": 12,
+    "title": "Fu Manchu Tiki",
+    "image": "/images/12.jpg",
+    "year": "2010",
+    "color": "brown",
+    "type": "novelty",
+    "text": "Reproduction of vintage Fu Manchu styled Tiki mug"
+},
+{
+    "id": 13,
+    "title": "Bamboozler Tiki",
+    "image": "/images/5.jpg",
+    "year": "2005",
+    "color": "yellow",
+    "type": "modern",
+    "text": "Designed by Boojum Bros for Portasia International"
+},
+{
+    "id": 14,
+    "title": "Green Modern Tiki",
+    "image": "/images/14.jpg",
+    "year": "2001",
+    "color": "green",
+    "type": "modern",
+    "text": "Designed by Accoutrements"
+},
+{
+    "id": 15,
+    "title": "Blue Modern Tiki",
+    "image": "/images/15.jpg",
+    "year": "2011",
+    "color": "blue",
+    "type": "modern",
+    "text": "Designed by Libbey"
+},
+{
+    "id": 16,
+    "title": "Dark Blue Modern Tiki",
+    "image": "/images/16.jpg",
+    "year": "2002",
+    "color": "blue",
+    "type": "modern",
+    "text": "Designed by Tiki Farm"
+},
+{
+    "id": 17,
+    "title": "Brown Las Vegas Tiki",
+    "image": "/images/17.jpg",
+    "year": "2003",
+    "color": "brown",
+    "type": "modern",
+    "text": "Designed by Chiki Tiki"
+},
+{
+    "id": 18,
+    "title": "Green Las Vegas Tiki",
+    "image": "/images/18.jpg",
+    "year": "2003",
+    "color": "green",
+    "type": "modern",
+    "text": "Designed by Chiki Tiki"
+},
+{
+    "id": 19,
+    "title": "Brown Tiki Shot Glass",
+    "image": "/images/19.jpg",
+    "year": "2012",
+    "color": "brown",
+    "type": "modern",
+    "text": "Designed by KC Co."
+},
+{
+    "id": 20,
+    "title": "Green Tiki Shot Glass",
+    "image": "/images/20.jpg",
+    "year": "2012",
+    "color": "green",
+    "type": "modern",
+    "text": "Designed by KC Co."
+},
+{
+    "id": 21,
+    "title": "Purple Tiki",
+    "image": "/images/21.jpg",
+    "year": "2001",
+    "color": "purple",
+    "type": "modern",
+    "text": "Designed by Accoutrements"
+},
+{
+    "id": 22,
+    "title": "Light Blue Tiki",
+    "image": "/images/22.jpg",
+    "year": "2002",
+    "color": "blue",
+    "type": "modern",
+    "text": "Modern era tiki mug"
+},
+{
+    "id": 23,
+    "title": "Turquoise Tiki",
+    "image": "/images/23.jpg",
+    "year": "2002",
+    "color": "turquoise",
+    "type": "modern",
+    "text": "Modern era tiki mug"
+},
+{
+    "id": 24,
+    "title": "Blue Tiki",
+    "image": "/images/24.jpg",
+    "year": "2002",
+    "color": "blue",
+    "type": "modern",
+    "text": "Modern era tiki mug"
+},
+{
+    "id": 25,
+    "title": "Vintage Midcentury Tiki",
+    "image": "/images/25.jpg",
+    "year": "1950's",
+    "color": "brown",
+    "type": "vintage",
+    "text": "Authentic midcentury tiki mug from Fred Roberts Company in San Francisco"
+},
+{
+    "id": 26,
+    "title": "Brown Tiki Mug",
+    "image": "/images/26.jpg",
+    "year": "2001",
+    "color": "brown",
+    "type": "modern",
+    "text": "Modern era tiki mug"
+},
+{
+    "id": 27,
+    "title": "Kon Tiki Volcano Bowl",
+    "image": "/images/27.jpg",
+    "year": "2000's",
+    "color": "brown",
+    "type": "novelty",
+    "text": "Tiki volcano bowl from Kon Tiki in Tucson, AZ, designed by Tiki Farm"
+},
+{
+    "id": 28,
+    "title": "Vintage Tiki",
+    "image": "/images/28.jpg",
+    "year": "1960's",
+    "color": "brown",
+    "type": "vintage",
+    "text": "Midcentury era tiki mug from Jimmy Wong's in Chicago, Illinois"
+},
+{
+    "id": 29,
+    "title": "Modern Brown Tiki",
+    "image": "/images/29.jpg",
+    "year": "2000",
+    "color": "brown",
+    "type": "modern",
+    "text": "Designed by KC Co. Hawaii"
+},
+{
+    "id": 30,
+    "title": "Brown Tiki Mug",
+    "image": "/images/30.jpg",
+    "year": "2000's",
+    "color": "brown",
+    "type": "modern",
+    "text": "Modern era tiki mug"
+},
+{
+    "id": 31,
+    "title": "Tahiti Joe's Tiki Mug",
+    "image": "/images/31.jpg",
+    "year": "2007",
+    "color": "brown",
+    "type": "modern",
+    "text": "Tiki mug from Tahiti Joe's in Las Vegas, NV"
+},
+{
+    "id": 32,
+    "title": "Brown Tiki Mug",
+    "image": "/images/32.jpg",
+    "year": "2000's",
+    "color": "brown",
+    "type": "modern",
+    "text": "Modern era tiki mug"
+},
+{
+    "id": 33,
+    "title": "Brown Tiki Mug",
+    "image": "/images/33.jpg",
+    "year": "2000's",
+    "color": "brown",
+    "type": "modern",
+    "text": "Modern era tiki mug from MGM Grand in Reno, NV"
+},
+{
+    "id": 34,
+    "title": "Tiki Salt & Pepper Shakers",
+    "image": "/images/34.jpg",
+    "year": "2000",
+    "color": "brown",
+    "type": "modern",
+    "text": "Set of salt and pepper shaker tikis"
+},
+{
+    "id": 35,
+    "title": "Moai Salt & Pepper Shakers",
+    "image": "/images/35.jpg",
+    "year": "1980's",
+    "color": "brown",
+    "type": "vintage",
+    "text": "Set of salt and pepper shaker tikis from Disneyland, CA"
+},
+{
+    "id": 36,
+    "title": "Green Tiki Mug Candle",
+    "image": "/images/36.jpg",
+    "year": "2000's",
+    "color": "green",
+    "type": "modern",
+    "text": "Tiki mug candle"
+},
+{
+    "id": 37,
+    "title": "Blue Tiki Mug Candle",
+    "image": "/images/37.jpg",
+    "year": "2000's",
+    "color": "blue",
+    "type": "modern",
+    "text": "Tiki mug candle"
+},
+{
+    "id": 38,
+    "title": "Bali Hai Headhunter Tiki",
+    "image": "/images/38.jpg",
+    "year": "1960's",
+    "color": "brown",
+    "type": "vintage",
+    "text": "Authentic vintage tiki mug from Bali Hai in San Diego, CA"
+},
+{
+    "id": 39,
+    "title": "Kon Tiki Mug",
+    "image": "/images/39.jpg",
+    "year": "2000's",
+    "color": "brown",
+    "type": "modern",
+    "text": "Tiki mug from Kon Tiki in Tucson, AZ"
+}]
