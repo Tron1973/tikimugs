@@ -130,11 +130,6 @@ p {
   }
 }
 
-@media screen and (min-width: 2000px) {
-  .about {
-    max-width: 75%;
-  }
-}
 
 
 
