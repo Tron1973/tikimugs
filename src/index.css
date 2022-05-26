@@ -73,11 +73,7 @@ p {
   margin: 0rem -16rem !important;
 }
 
-.about {
-  max-width: 100%;
-  display: block;
-  
-}
+
 
 .tiki-logo {
   color: #ff8c00;
@@ -134,7 +130,11 @@ p {
   }
 }
 
-
+@media screen and (min-width: 2000px) {
+  .about {
+    max-width: 75%;
+  }
+}
 
 
 
