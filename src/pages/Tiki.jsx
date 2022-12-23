@@ -5,10 +5,7 @@ import Data from "../data.json";
 
 function Tiki() {
 
-  
-
     return (
-    
         <Container
         animate={{opacity: 1}}
         initial={{opacity: 0}}

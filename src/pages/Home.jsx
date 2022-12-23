@@ -3,7 +3,7 @@ import Carousel from "../components/Carousel";
 
 function Home() {
     return (
-        <div className="home">
+        <main className="home">
           <>
             <h2>A personal collection of tiki mugs</h2>
             <p>These have been collected over the past 25 years,</p>
@@ -24,7 +24,7 @@ function Home() {
             </h4>
             <Carousel className="carousel" />
           </>          
-        </div>
+        </main>
       );
 }
 

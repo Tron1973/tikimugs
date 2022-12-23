@@ -23,9 +23,6 @@ function Pages() {
       </AnimatePresence>
       </>
     )
-
-
-
 }
 
 export default Pages;
